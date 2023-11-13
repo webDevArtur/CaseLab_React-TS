@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CaseLab_React-TS/static/css/main.0a769fe8.css",
+    "main.js": "/CaseLab_React-TS/static/js/main.2413a361.js",
+    "index.html": "/CaseLab_React-TS/index.html",
+    "main.0a769fe8.css.map": "/CaseLab_React-TS/static/css/main.0a769fe8.css.map",
+    "main.2413a361.js.map": "/CaseLab_React-TS/static/js/main.2413a361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a769fe8.css",
+    "static/js/main.2413a361.js"
+  ]
+}
