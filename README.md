@@ -3,6 +3,7 @@
 
 ## Ссылка на проект
 https://webdevartur.github.io/CaseLab_React-TS/
+![image](https://github.com/webDevArtur/CaseLab_React-TS/assets/141954990/9f9b30b9-5817-4913-bccd-e6c5be64d514)
 
 ## Особенности
 Адаптивная вёрстка
