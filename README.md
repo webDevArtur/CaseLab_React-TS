@@ -7,6 +7,7 @@ https://webdevartur.github.io/CaseLab_React-TS/
 
 ## Особенности
 Адаптивная вёрстка
+![image](https://github.com/webDevArtur/CaseLab_React-TS/assets/141954990/01099c15-c3c6-45c8-87c7-5bb6c86d7829)
 
 ## Задачи
 
